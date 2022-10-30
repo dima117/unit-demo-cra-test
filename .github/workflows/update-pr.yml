@@ -1,13 +1,6 @@
 name: Merge PR actions
 
-on:
-  workflow_dispatch:
-  push:
-    branches: [ master ]
-  pull_request:
-    types:
-      - opened
-    branches: [ master ]
+on: [workflow_dispatch, push, pull_request]
 
 jobs:
   build:
