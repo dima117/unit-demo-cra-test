@@ -1,4 +1,4 @@
-name: Merge PR actions
+name: Update PR actions
 
 on: [workflow_dispatch, push, pull_request]
 
