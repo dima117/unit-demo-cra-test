@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,KACI,YACJ,CAEA,QACI,gBACJ,CAEA,MACI,4BACJ,CAEA,MACI,eACJ","file":"main.3b96d3be.chunk.css","sourcesContent":["body {\n    padding: 20px;\n}\n\ninput, a {\n    margin-right: 8px;\n}\n\n.done {\n    text-decoration: line-through;\n}\n\n.list {\n    margin-top: 12px;\n}\n\n"]}
